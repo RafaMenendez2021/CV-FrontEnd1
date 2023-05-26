@@ -1,0 +1,46 @@
+#cabecera{
+    background-image: url('fondo.jpeg');
+    background-size: repeat;
+}
+#pie{
+    background-color: rgb(176, 122, 14, 0.3);
+}
+.foto_personal{
+    display: block;
+    margin: auto;
+    width: 100px;
+    height: auto;
+}
+h1{
+    text-align: center;
+    background-color: lightgray;
+    color:#005677;
+}
+.blanco{
+    letter-spacing: 3em;
+    color: white;
+}
+h2{
+    background-color: lightgray;
+    color:#005677 ;
+    padding: 8px;
+    font-family: 'Times New Roman';
+    font-size: 20px;
+}
+b{
+    font-style: italic;
+}
+dt{
+    font-weight: bold;
+}
+footer p{
+    text-align: center;
+    background-color: #005677;
+    color: white;
+    font-family: 'Times New Roman';
+    font-size: 20px;
+    padding: 10px;
+}
+.iconos{
+    padding-left: 20px;
+}
