@@ -1,15 +1,25 @@
+dt{
+    display: inline-block; 
+    margin-left: 10px;
+}
 #cabecera{
     background-image: url('fondo.jpeg');
     background-size: repeat;
 }
 #pie{
     background-color: rgb(176, 122, 14, 0.3);
+    text-align: center;
 }
 .foto_personal{
     display: block;
     margin: auto;
     width: 100px;
     height: auto;
+}
+.no-centrado {
+    text-align: left;
+    font-size: 20px;
+    font-family: garamond;
 }
 h1{
     text-align: center;
